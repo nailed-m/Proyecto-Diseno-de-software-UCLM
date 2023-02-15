@@ -1,1 +1,0 @@
-Un cliente quiere un juego basado en un laberinto que está formado por habitaciones. Las habitaciones tienen paredes y puertas.
