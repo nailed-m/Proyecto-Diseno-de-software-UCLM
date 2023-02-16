@@ -4,4 +4,8 @@
 from ElementoMapa import ElementoMapa
 
 class Pared(ElementoMapa):
-    pass
+    def entrar():
+        print("Te has chocado con una pared")
+
+    def esPared():
+        return True
